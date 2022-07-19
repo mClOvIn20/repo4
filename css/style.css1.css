@@ -25,6 +25,8 @@ h5{
 }
 h6{
 	color: black;
+	font-family: 'Oswald', sans-serif;
+	font-size:rem;
 }
 p{
 	color: grey;
@@ -62,5 +64,10 @@ body{
 .btn-grey{
 	color: black;
 	background-color:white ;
+
+}
+.god{
+	color: white;
+	background-color:black ;
 
 }
